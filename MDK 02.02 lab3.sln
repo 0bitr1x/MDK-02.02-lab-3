@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MDK 02.02 lab3", "MDK 02.02 lab3\MDK 02.02 lab3.csproj", "{B4729139-E8CD-435F-8213-915A0004F564}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4729139-E8CD-435F-8213-915A0004F564}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4729139-E8CD-435F-8213-915A0004F564}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4729139-E8CD-435F-8213-915A0004F564}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4729139-E8CD-435F-8213-915A0004F564}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
